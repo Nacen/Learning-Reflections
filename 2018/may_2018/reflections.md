@@ -30,6 +30,6 @@ Analysis
 The analysis is a model of the program because its correctly describes the structure of the program, but has less detail, we can plan our work on the program by marking up the analysis
 
 ### Program Always Change
-       There are two types of programs
-       1. Programs that changes
-       2. Programs that are not used
+There are two types of programs
+1. Programs that changes
+2. Programs that are not used
