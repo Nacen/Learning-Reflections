@@ -28,7 +28,7 @@ Start with what you know
 
 Reduce the Problem
 
-* If we can't solve the problem currently with what we have. One thing to do is solve the problem by Elimination Process or reducing it into smaller pieces 
+* If we can't solve the problem currently with what we have. One thing to do is solve the problem by Elimination Process or reducing it into smaller pieces
 
 * We reduce the scope of the problem or we add/remove constraints so we can have a different perspective on the problem given. By reducing the problem we are making the problem simpler on each reduction until we can solve it
 
@@ -42,7 +42,7 @@ Analogies
 
 Experiment
 
-* By Experiment we mean to have a plan and form a hypothesis on how we would solve the problem it's a controlled experiment in which we form a plan and see if the results would be the same as our expectations 
+* By Experiment we mean to have a plan and form a hypothesis on how we would solve the problem it's a controlled experiment in which we form a plan and see if the results would be the same as our expectations
 
 * By having a plan it's not just by bashing your head over again in a directionless way
 
