@@ -10,6 +10,6 @@
 
 ### Building my Portfolio
 
-* My portfolio 
+* My portfolio
 
 My Portfolio isn't that easy to decide what to add to it since i don't have much skills yet but i should try creating a unique prototype for now.
