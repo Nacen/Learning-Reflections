@@ -38,3 +38,10 @@ month_abbvs = dict((m[:3].lower(), m) for m in months)
 without list comprehension
 for m in months:
     month_abbvs[m[:3].lower()] = m
+
+I also learned about String substitution
+By having a placeholder character and replacing that character
+%s and a variable or a dictionary
+
+I have also learned more about validation how to handle data
+and how to preserve user input in python
